@@ -21,3 +21,9 @@ This assignment demonstrates Priority & Round Robin scheduling, Sequential & Ind
 ```bash
 # Clone the repository (if applicable)
 git clone <your-repo-url>
+# Run individual programs
+python3 scheduling.py
+python3 sequential_allocation.py
+python3 indexed_allocation.py
+python3 memory_allocation.py
+python3 mft_mvt.py
